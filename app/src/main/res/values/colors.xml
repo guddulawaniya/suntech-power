@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottomnavbar">#EAEFF5</color>
+    <color name="Themecolor">#89EA5F</color>
+    <color name="textborderstorke">#404142</color>
+    <color name="textinnercolor">#E4EBF2</color>
+    <color name="loginlinearbg">#F3F9FF</color>
+    <color name="notificationbg">#F6F6F6</color>
+    <color name="notificationdivider">#A5A5A5</color>
+    <color name="Prospectbackground">#E7E7E7</color>
+    <color name="annoucementcardbg">#F4F8FC</color>
+    <color name="downlinetextbg">#F0F0F0</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="red">#FE4042</color>
+    <color name="golden">#FDCD03</color>
+    <color name="Themecolorsecond">#163300</color>
+    <color name="light_red">#BE8787</color>
+    <color name="light_green" tools:ignore="MissingDefaultResource">#99C079</color>
+    <color name="transparent1">#1D6C6C6C</color>
+    <color name="grey">#959799</color>
+    <color name="textgrey">#6D7073</color>
+    <color name="textgreylogin">#67696C</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

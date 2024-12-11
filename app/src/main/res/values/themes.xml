@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuntechPower" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/Themecolorsecond</item>
+        <item name="android:layoutDirection">ltr</item>
+        <item name="colorPrimaryVariant">@color/Themecolorsecond</item>
+        <item name="colorSecondary">@color/Themecolorsecond</item>
+        <item name="colorSecondaryVariant">@color/Themecolorsecond</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/Themecolorsecond</item>
+    </style>
+
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:drawableRight">@drawable/arrow_down_icon</item> <!-- Custom dropdown arrow -->
+    </style>
+
+
+    <style name="CustomBottomSheet" parent="Widget.MaterialComponents.BottomSheet">
+        <item name="shapeAppearanceOverlay">
+            @style/CustomShapeAppearanceOverlay.MaterialComponents.BottomSheet
+        </item>
+    </style>
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@drawable/tab_color_selector</item>
+        <item name="tabPadding">@dimen/_10sdp</item>
+    </style>
+
+    <style name="MyRounded_MaterialComponents_MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="android:background">@drawable/dialog_bg</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="CustomShapeAppearanceOverlay.MaterialComponents.BottomSheet" parent="">
+        <item name="cornerSizeTopRight">16dp</item>
+        <item name="cornerSizeTopLeft">16dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+    <style name="CustomBottomNavigationStyle">
+
+        <item name="android:itemBackground">@android:color/transparent</item>
+
+
+    </style>
+    <style name="Theme.SuntechPower" parent="Base.Theme.SuntechPower" />
+</resources>

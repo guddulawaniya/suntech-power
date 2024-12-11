@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/verifedimage" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OTP Successfully Verified"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textSize="@dimen/_14sdp" />
+
+    <Button
+        android:id="@+id/okbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:minWidth="@dimen/_200sdp"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:textSize="@dimen/_16sdp"
+        android:text="OK" />
+
+</LinearLayout>

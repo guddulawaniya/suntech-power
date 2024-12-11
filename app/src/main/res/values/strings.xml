@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Suntech Power</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loremtext">Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed. ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.Lorem ipsum dolor sit amet consectetur. Risus maecenas lorem arcu accumsan imperdiet eleifend morbi semper. Vehicula erat aliquam fusce mauris. Sem nullam vestibulum nibh et purus rhoncus sed dictumst quis. Faucibus ornare fringilla scelerisque adipiscing sed.</string>
+    <string-array name="simple_items">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Miss.</item>
+        <item>Ms.</item>
+        <item>He/Him</item>
+        <item>They/Them</item>
+        <item>She/Her</item>
+    </string-array>
+
+    <string-array name="simple_items1">
+        <item>Click For Choose</item>
+        <item>Product</item>
+        <item>Technical</item>
+        <item>Payment</item>
+        <item>Others</item>
+    </string-array>
+</resources>

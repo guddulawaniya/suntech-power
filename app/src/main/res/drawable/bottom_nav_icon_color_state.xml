@@ -1,0 +1,5 @@
+<!-- res/color/bottom_nav_icon_color_state.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/Themecolorsecond" android:state_checked="true" />  <!-- Active state -->
+    <item android:color="@color/textgrey" />  <!-- Inactive state -->
+</selector>
